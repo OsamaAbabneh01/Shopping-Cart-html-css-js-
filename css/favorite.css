@@ -1,0 +1,7 @@
+.favorite-products {
+    width: 60%;
+}
+
+.product-item button {
+    flex: 1.5;
+}

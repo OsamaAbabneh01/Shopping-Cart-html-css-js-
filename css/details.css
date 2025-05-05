@@ -1,0 +1,17 @@
+.product-details {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.product-details img {
+    width: 50%;
+    height: 70vh;
+    border: 1px darkgreen dashed;
+    margin: 10px;
+    padding: 40px;
+}
+
+.product-details p {
+    width: 45%;
+    margin: 10px auto;
+}

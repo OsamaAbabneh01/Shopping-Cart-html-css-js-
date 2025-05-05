@@ -1,0 +1,12 @@
+* {
+    font-family: "Oswald", sans-serif;
+}
+
+.message {
+    text-align: center;
+    background-color: #ffebe8;
+    margin: 10px;
+    border: 1px solid #dd3c10;
+    padding: 5px 0;
+    display: none;
+}
